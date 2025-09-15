@@ -1,0 +1,1 @@
+﻿Start-Process powershell -WindowStyle Hidden -ArgumentList "-NoProfile -Command `"New-Item -Path C:\Users\Public\OffsecWasHere.txt -ItemType File -Value 'Offsec was here.'`""
