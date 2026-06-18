@@ -1,0 +1,9 @@
+﻿SPN Discovery Scan - 2026-03-19 13:37:52
+Target Services: Backup-Infra Cohesity CommVault Dell-EMC Hyper-V Rubrik SQL Veeam Veritas vSphere -join ', '
+--------------------------------------------------------------------------------
+Service Name,Computer Name,IP Address,DNS Name
+--------------------------------------------------------------------------------
+SUMMARY
+Total computers found: 0
+
+Breakdown by service:
